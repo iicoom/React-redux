@@ -1,0 +1,36 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "just a demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iicoom/React-redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Mr.Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iicoom/React-redux/issues"
+  },
+  "homepage": "https://github.com/iicoom/React-redux#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-redux": "4.4.8",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "bable-loader": "6.2.0",
+    
+  }
+}
