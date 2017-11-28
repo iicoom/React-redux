@@ -1,0 +1,8 @@
+理解数据流
+http://www.92to.com/bangong/2016/06-27/6317421.html
+
+mapStateToProps：
+mapStateToProps 是一个普通的函数。当它被connect调用的时候会为它传递一个参数State。 字面意思是，匹配一个state给组件。
+mapStateToProps 需要负责的事情就是 返回需要传递给子组件的State，返回需要传递给子组件的State，返回需要传递给子组件的State，（重要的事情说三遍。。。。）
+然后connect会拿到返回的数据写入到react组件中，然后组件中就可以通过props读取数据啦~~~~
+
