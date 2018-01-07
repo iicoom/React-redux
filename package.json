@@ -30,6 +30,6 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
-    "bable-loader": "6.2.0"
+    "bable-loader": "^7.1.0"
   }
 }
